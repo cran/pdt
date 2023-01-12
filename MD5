@@ -1,0 +1,17 @@
+7acffb466fd0dcea18bca48c646150e8 *DESCRIPTION
+254ad5c117a71e502c6e6b7d53a49d2d *NAMESPACE
+a1d1eb9675ce61ca5bff9419236a69e7 *NEWS.md
+2c93d93c5ff7eaefc65197c5ed7c173d *R/AB_permutation_distancing_test.R
+3ced589d0885ecd11c6c0150aaf07b2b *R/AB_permutation_test.R
+22a7abcc31b52076ee2fc002a32c949d *R/AB_permutation_test_plot.R
+b5736bdaf76e09dda8d97c2343d36433 *R/detrend_A.R
+6c5f1cccae31ce1f27c8da2379bcbc5c *R/detrend_B.R
+1fbe8d2334958b2eafcae6e428b52bb5 *R/do_remove_NA_series_above_k.R
+1b5b1a9275cb0f5eb2a116d5dded1564 *R/insert_NA_and_try_to_shift.R
+3e36f75c4f996a10e127e167b45f50c5 *man/AB_permutation_distancing_test.Rd
+549f00173094b6e8c3ffbf29ae50e723 *man/AB_permutation_test.Rd
+808da75d88ff3e19282a42a328e271bc *man/AB_permutation_test_plot.Rd
+a29e48379c29915a9b9662a2a22fd8be *man/detrend_A.Rd
+2981c475b3eb2d7364df9db318fd972b *man/detrend_B.Rd
+4a21069719a4a4f7f12caeb8f401d027 *man/do_remove_NA_series_above_k.Rd
+c4f1de2ed09f031f876a685203755591 *man/insert_NA_and_try_to_shift.Rd
